@@ -1,0 +1,21 @@
+img {
+    border-radius:20px;
+    width: 400px;
+    padding-bottom: 8em;
+}
+
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1em;
+    padding: 0.5em;
+    color: rgb(155, 32, 87);
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    margin-bottom: 4em;
+}
